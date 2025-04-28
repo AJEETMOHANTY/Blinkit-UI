@@ -1,3 +1,9 @@
-For Training and Placement contact me:-
-+91 6350339804
-sujaldave880@gmail.com
+A Flutter project replicating the Blinkit mobile application's user interface, focusing on a clean, responsive, and pixel-perfect design.
+
+* Fully responsive layout for mobile screens
+
+* Custom widgets for product listing, categories, and cart view
+
+* Smooth navigation between pages
+
+* Focus on UI/UX best practices
